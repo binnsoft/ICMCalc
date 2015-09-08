@@ -17,3 +17,5 @@ The application will have 4 pages:
 3. Register - Allows the user to register with the site.
 
 4. Help - Displays user help.
+
+See the ICMCalc specification document for a full definition of the application pages.
